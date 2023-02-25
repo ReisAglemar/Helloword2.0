@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #1C2D61;
+}
+
+.firstDiv, .secondDiv{
+    margin: 0 auto;
+    
+}
+
+
+.firstTitle, .secondTitle{
+    color:  #4169e1;
+    text-align: center;
+    margin: 15px auto;
+    font-size: 2.5rem;
+}
+
+.firstParagraph, .secondParagraph{
+    color: #4169e1;
+    text-align: center;
+    margin: 15px auto;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.secondTitle{
+    color: greenyellow;
+}
+
