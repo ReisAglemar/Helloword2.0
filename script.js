@@ -1,3 +1,5 @@
+//função para mostrar as horas
+
 function currentTime() {
     let message = document.querySelector(".secondTitle")
     let time = new Date()
